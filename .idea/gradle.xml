@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Taiwan-Agricultural_Info1_1" />
+            <option value="$PROJECT_DIR$/q0400" />
+            <option value="$PROJECT_DIR$/quiz" />
+            <option value="$PROJECT_DIR$/quiz05" />
+            <option value="$PROJECT_DIR$/quiz_game_04ver" />
+            <option value="$PROJECT_DIR$/quiz_game_05ver" />
+            <option value="$PROJECT_DIR$/quiz_game_06ver" />
+            <option value="$PROJECT_DIR$/quiz_game_a05ver" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

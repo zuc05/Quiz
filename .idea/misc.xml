@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android_work/Quiz/q0400/src/main/res/layout/q0400.xml" value="0.10740740740740741" />
+        <entry key="..\:/android_work/Quiz/q0400/src/main/res/layout/q0401.xml" value="0.10740740740740741" />
+        <entry key="..\:/android_work/Quiz/q0400/src/main/res/layout/q0401_cell_post.xml" value="0.10740740740740741" />
+        <entry key="..\:/android_work/Quiz/q0400/src/main/res/layout/q0401a.xml" value="0.10740740740740741" />
+        <entry key="..\:/android_work/Quiz/q0400/src/main/res/layout/q0401a_cell_post.xml" value="0.10740740740740741" />
+        <entry key="..\:/android_work/Quiz/q0400/src/main/res/menu/q0400_music_menu.xml" value="0.1" />
+        <entry key="..\:/android_work/Quiz/q0400/src/main/res/menu/q0401_main.xml" value="0.1" />
+        <entry key="..\:/android_work/Quiz/q0400/src/main/res/menu/q0401a_main_menu.xml" value="0.1" />
+        <entry key="..\:/android_work/Quiz/quiz/src/main/res/layout/q0300.xml" value="0.2328125" />
+        <entry key="..\:/android_work/Quiz/quiz/src/main/res/layout/q0301.xml" value="0.32558139534883723" />
+        <entry key="..\:/android_work/Quiz/quiz/src/main/res/layout/q0302.xml" value="0.2328125" />
+        <entry key="..\:/android_work/Quiz/quiz/src/main/res/layout/q0303.xml" value="0.2328125" />
+        <entry key="..\:/android_work/Quiz/quiz/src/main/res/layout/q0304.xml" value="0.2328125" />
+        <entry key="..\:/android_work/Quiz/quiz/src/main/res/layout/q0311.xml" value="0.2328125" />
+        <entry key="..\:/android_work/Quiz/quiz/src/main/res/layout/q0312.xml" value="0.2328125" />
+        <entry key="..\:/android_work/Quiz/quiz/src/main/res/menu/q0300.xml" value="0.1" />
+        <entry key="..\:/android_work/Quiz/quiz005/src/main/res/layout/q0200.xml" value="0.1" />
+        <entry key="..\:/android_work/Quiz/quiz005/src/main/res/layout/q0300.xml" value="0.1" />
+        <entry key="..\:/android_work/Quiz/quiz005/src/main/res/layout/q0301.xml" value="0.115625" />
+        <entry key="..\:/android_work/Quiz/quiz005/src/main/res/menu/q0300.xml" value="0.17552083333333332" />
+        <entry key="..\:/android_work/Quiz/quiz05/src/main/res/layout/q0200.xml" value="0.2328125" />
+        <entry key="..\:/android_work/Quiz/quiz05/src/main/res/layout/q0300.xml" value="0.20134228187919462" />
+        <entry key="..\:/android_work/Quiz/quiz05/src/main/res/layout/q0301.xml" value="0.264" />
+        <entry key="..\:/android_work/Quiz/quiz05/src/main/res/layout/q0304.xml" value="0.18489583333333334" />
+        <entry key="..\:/android_work/Quiz/quiz05/src/main/res/layout/q0311.xml" value="0.1" />
+        <entry key="..\:/android_work/Quiz/quiz05/src/main/res/layout/q0312.xml" value="0.25735294117647056" />
+        <entry key="..\:/android_work/Quiz/quiz05/src/main/res/layout/q0312_list.xml" value="0.2328125" />
+        <entry key="..\:/android_work/Quiz/quiz05/src/main/res/menu/q0300.xml" value="0.17760416666666667" />
+        <entry key="..\:/android_work/Quiz/quiz05/src/main/res/mipmap-anydpi-v26/ic_launcher_quiz.xml" value="0.1" />
+        <entry key="..\:/android_work/Quiz/quiz_game_05ver/src/main/res/layout/q0100.xml" value="0.2328125" />
+        <entry key="..\:/android_work/Quiz/quiz_game_06ver/src/main/res/layout/q0300.xml" value="0.1" />
+        <entry key="..\:/android_work/Quiz/quiz_game_a05ver/src/main/res/layout/q0100.xml" value="0.11296296296296296" />
+        <entry key="..\:/android_work/Quiz/quiz_game_a05ver/src/main/res/layout/q0101.xml" value="0.11296296296296296" />
+        <entry key="..\:/android_work/Quiz/quiz_game_a05ver/src/main/res/layout/q0200.xml" value="0.11296296296296296" />
+        <entry key="..\:/android_work/Quiz/quiz_game_a05ver/src/main/res/layout/q0300.xml" value="0.1" />
+        <entry key="..\:/android_work/Quiz/quiz_game_a05ver/src/main/res/layout/q0301.xml" value="0.10092592592592593" />
+        <entry key="..\:/android_work/Quiz/quiz_game_a05ver/src/main/res/layout/q0302.xml" value="0.11296296296296296" />
+        <entry key="..\:/android_work/Quiz/quiz_game_a05ver/src/main/res/layout/q0303.xml" value="0.11296296296296296" />
+        <entry key="..\:/android_work/Quiz/quiz_game_a05ver/src/main/res/layout/q0304.xml" value="0.11296296296296296" />
+        <entry key="..\:/android_work/Quiz/quiz_game_a05ver/src/main/res/layout/q0306.xml" value="0.11296296296296296" />
+        <entry key="..\:/android_work/Quiz/quiz_game_a05ver/src/main/res/layout/q0307.xml" value="0.11296296296296296" />
+        <entry key="..\:/android_work/Quiz/quiz_game_a05ver/src/main/res/layout/q0311.xml" value="0.11296296296296296" />
+        <entry key="..\:/android_work/Quiz/quiz_game_a05ver/src/main/res/layout/q0312.xml" value="0.10092592592592593" />
+        <entry key="..\:/android_work/Quiz/quiz_game_a05ver/src/main/res/layout/q0312_list.xml" value="0.11296296296296296" />
+        <entry key="..\:/android_work/Quiz/quiz_game_a05ver/src/main/res/menu/q0300.xml" value="0.10092592592592593" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2328125" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

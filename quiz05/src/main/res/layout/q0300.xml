@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/q0300_rl000"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue_softness"
+    android:padding="@dimen/p000"
+    tools:context="tw.tcnra05.tcnrcloud11005.Q0300">
+
+    <ImageView
+        android:id="@+id/q0300_img001"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/iconquiz03"
+
+        tools:ignore="ContentDescription" />
+
+    <RelativeLayout
+        android:id="@+id/q0300_rl002"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/blue_softness">
+
+        <RelativeLayout
+            android:id="@+id/q0300_rl001"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="@dimen/p010">
+
+            <TextView
+                android:id="@+id/q0300_t001"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="0dp"
+                android:gravity="center_horizontal"
+                android:text="@string/q0300_t001"
+                android:textColor="@color/black"
+                android:textSize="@dimen/sp24"
+                android:textStyle="bold" />
+
+<!--            <RadioGroup-->
+<!--                android:id="@+id/q0300_rbg001"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginTop="@dimen/p040"-->
+<!--                android:orientation="horizontal">-->
+
+<!--                <RadioButton-->
+<!--                    android:id="@+id/q0300_rb001"-->
+<!--                    android:layout_width="@dimen/p090"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:background="@color/floralwhite"-->
+<!--                    android:gravity="center"-->
+<!--                    android:text="@string/q0300_b001"-->
+<!--                    android:textSize="@dimen/sp18"-->
+<!--                    tools:ignore="TouchTargetSizeCheck" />-->
+
+<!--                <RadioButton-->
+<!--                    android:id="@+id/q0300_rb002"-->
+<!--                    android:layout_width="@dimen/p090"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginStart="@dimen/p030"-->
+<!--                    android:background="@color/light_yellow"-->
+<!--                    android:gravity="center"-->
+<!--                    android:text="@string/q0300_b002"-->
+<!--                    android:textSize="@dimen/sp18"-->
+<!--                    tools:ignore="TouchTargetSizeCheck" />-->
+
+<!--                <RadioButton-->
+<!--                    android:id="@+id/q0300_rb003"-->
+<!--                    android:layout_width="@dimen/p090"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginStart="@dimen/p030"-->
+<!--                    android:background="@color/peach_puff"-->
+<!--                    android:gravity="center"-->
+<!--                    android:text="@string/q0300_b003"-->
+<!--                    android:textSize="@dimen/sp18"-->
+<!--                    tools:ignore="TouchTargetSizeCheck" />-->
+<!--            </RadioGroup>-->
+
+            <Button
+                android:id="@+id/q0300_objb001"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/p250"
+                android:background="#EBFAE2"
+                android:text="@string/q0300_b001"
+                android:textSize="@dimen/sp18" />
+            <com.google.android.material.tabs.TabLayout
+                android:id="@+id/q0300_tab001"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/q0300_t001"
+                android:layout_marginTop="@dimen/p000"
+                tools:ignore="SpeakableTextPresentCheck" />
+
+            <androidx.viewpager2.widget.ViewPager2
+                android:id="@+id/q0300_vp001"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/p120"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="@dimen/p080"
+                app:layout_constraintBottom_toBottomOf="parent"
+
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+            </androidx.viewpager2.widget.ViewPager2>
+
+            <TextView
+                android:id="@+id/q0300_t002"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/p050"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="@dimen/p000"
+                android:gravity="bottom|center_horizontal"
+                android:textColor="@color/Orange" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

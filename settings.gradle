@@ -1,0 +1,21 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "Quiz"
+
+include ':quiz'
+include ':q0400'
+include ':quiz_game_04ver'
+include ':quiz_game_05ver'
+
+include ':quiz_game_a05ver'
+include ':Taiwan-Agricultural_Info1_1'
+include ':quiz05'
+include ':quiz_game_06ver'
+
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Quiz.iml" filepath="$PROJECT_DIR$/.idea/modules/Quiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Taiwan-Agricultural_Info1_1/Quiz.Taiwan-Agricultural_Info1_1.iml" filepath="$PROJECT_DIR$/.idea/modules/Taiwan-Agricultural_Info1_1/Quiz.Taiwan-Agricultural_Info1_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/q0400/Quiz.q0400.iml" filepath="$PROJECT_DIR$/.idea/modules/q0400/Quiz.q0400.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quiz/Quiz.quiz.iml" filepath="$PROJECT_DIR$/.idea/modules/quiz/Quiz.quiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quiz05/Quiz.quiz05.iml" filepath="$PROJECT_DIR$/.idea/modules/quiz05/Quiz.quiz05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quiz_game_04ver/Quiz.quiz_game_04ver.iml" filepath="$PROJECT_DIR$/.idea/modules/quiz_game_04ver/Quiz.quiz_game_04ver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quiz_game_05ver/Quiz.quiz_game_05ver.iml" filepath="$PROJECT_DIR$/.idea/modules/quiz_game_05ver/Quiz.quiz_game_05ver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quiz_game_06ver/Quiz.quiz_game_06ver.iml" filepath="$PROJECT_DIR$/.idea/modules/quiz_game_06ver/Quiz.quiz_game_06ver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quiz_game_a05ver/Quiz.quiz_game_a05ver.iml" filepath="$PROJECT_DIR$/.idea/modules/quiz_game_a05ver/Quiz.quiz_game_a05ver.iml" />
+    </modules>
+  </component>
+</project>

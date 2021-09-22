@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Agricultural quiz "</string>
+    <string name="q0200_signed_out">logout</string>
+    <string name="q0311_b001">close</string>
+    <string name="q0311_t001">There are ten questions in the game, the rules of the game:\\n     Each question is based on 100 points\\n     Get rewards if you answer correctly in a row\\n     2 hits: 1.1 times \\n     3 hits: 1.2 times \\n     4 times: 15 times \\n     In the simple mode, the number of seconds for each question is 20 seconds.     Starting from the difficult mode, the number of seconds to answer the question will change when the answer is correct continuously:\\n     2 hits: 18 seconds \\n     3 hits: 16 seconds \\n     4 times: 15 seconds \\n         In the ultimate mode, three consecutive wrong answers directly end the game. \\n</string>
+    <string name="q0312_lit003">score:</string>
+    <string name="q0312_lit002">player:</string>
+    <string name="q0312_lit001">ranking</string>
+    <string name="q0312_s001">rank</string>
+    <string name="q0312_b001">close</string>
+    <string name="q0312_t004">player info</string>
+    <string name="q0312_t003">scroe</string>
+    <string name="q0312_t002">name</string>
+    <string name="q0312_t001">ranking</string>
+    <string name="q0300_b004">start</string>
+    <string name="q0300_b007">login</string>
+    <string name="q0300_b006">rank</string>
+    <string name="q0300_b005">game rule</string>
+    <string name="q0301_neutral">"Save score "</string>
+    <string name="q0301_finish1">"game over "</string>
+    <string name="q0301_finish2">"game over "</string>
+    <string name="q0300_t001">"Agricultural quiz "</string>
+    <string name="q0300_b001">easy</string>
+    <string name="q0300_b002">difficult</string>
+    <string name="q0300_b003">"ultimate"</string>
+    <string name="q0301_negative">"restart"</string>
+    <string name="q0301_positive">Leave</string>
+    <string name="q0301_message">loading</string>
+    <string name="q0301_title">please wait</string>
+    <string name="q0301_b001">A</string>
+    <string name="q0301_b002">B</string>
+    <string name="q0301_b003">C</string>
+    <string name="q0301_b004">D</string>
+    <string name="q0301_b005">START</string>
+    <string name="q0301_t009">Life</string>
+    <string name="q0301_t007">correct</string>
+    <string name="q0301_t008">Wrong</string>
+    <string name="q0301_t006">Hits</string>
+    <string name="q0301_t004">question</string>
+    <string name="q0301_t003">score</string>
+    <string name="q0301_t002">bonus</string>
+    <string name="q0301_t001">total score</string>
+    <string name="q0301_t010">Scores can be saved after logging in </string>
+    <string name="q0200_title_text">google account login [ ... ]</string>
+    <string name="q0200_status_signed_out">Not signed</string>
+    <string name="q0200_disconnect">Disconnect</string>
+    <string name="q0200_OptionalAction">" note"</string>
+    <string name="q0200_desc_google_icon">Google Logo</string>
+    <string name="q0300_t002">You are logged in</string>
+    <string name="q0300_t003">You are not logged in. The score will not be stored.</string>
+
+</resources>
